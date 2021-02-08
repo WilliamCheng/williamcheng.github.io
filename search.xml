@@ -1,52 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Playing Love | 爱之演奏</title>
-    <url>/Playing_Love/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
-        <div id="aplayer-SapGalbB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-SapGalbB"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "Playing Love",
-              author: "Ennio Morricone",
-              url: "/uploads/music/Playing_Love.mp3",
-              pic: "https://image.xiaotaiyang.org/upload/5/86/586be457ae9fdecb723677310ffc5666.jpg",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-<p>我录于2019年4月22日</p>
-]]></content>
-      <categories>
-        <category>Music</category>
-      </categories>
-      <tags>
-        <tag>Ennio Morricone</tag>
-        <tag>Recording</tag>
-        <tag>Modern Period</tag>
-        <tag>Classical</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Brahms Intermezzo in A Major | 勃拉姆斯A大调间奏曲, Op. 118 No. 2</title>
     <url>/Brahms_Intermezzo/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="录音"><a href="#录音" class="headerlink" title="录音"></a>录音</h2><p><img src="/uploads/images/BrahmsOp118.jpg" width="50%/"></p>
 
-        <div id="aplayer-ReiSIQHy" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-wnNADxfM" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-ReiSIQHy"),
+            element: document.getElementById("aplayer-wnNADxfM"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -76,10 +40,82 @@
         <category>Music</category>
       </categories>
       <tags>
+        <tag>Brahms</tag>
+        <tag>Recording</tag>
+        <tag>Romantic Period</tag>
+        <tag>Classical</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Playing Love | 爱之演奏</title>
+    <url>/Playing_Love/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
+        <div id="aplayer-pUCXZDRF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-pUCXZDRF"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "Playing Love",
+              author: "Ennio Morricone",
+              url: "/uploads/music/Playing_Love.mp3",
+              pic: "https://image.xiaotaiyang.org/upload/5/86/586be457ae9fdecb723677310ffc5666.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<p>我录于2019年4月22日</p>
+]]></content>
+      <categories>
+        <category>Music</category>
+      </categories>
+      <tags>
         <tag>Recording</tag>
         <tag>Classical</tag>
-        <tag>Brahms</tag>
-        <tag>Romantic Period</tag>
+        <tag>Ennio Morricone</tag>
+        <tag>Modern Period</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/test/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>
+        <div id="aplayer-DRxgOanT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-DRxgOanT"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "Playing Love",
+              author: "Ennio Morricone",
+              url: "/uploads/music/I_Love_You.mp3",
+              pic: "https://image.xiaotaiyang.org/upload/5/86/586be457ae9fdecb723677310ffc5666.jpg",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<p>我录于2019年4月22日</p>
+]]></content>
+      <categories>
+        <category>Music</category>
+      </categories>
+      <tags>
+        <tag>Recording</tag>
+        <tag>Classical</tag>
+        <tag>Ennio Morricone</tag>
+        <tag>Modern Period</tag>
       </tags>
   </entry>
   <entry>
@@ -129,7 +165,7 @@
 https://pan.baidu.com/s/1xkEWS4mwNr5K-4ag6ueJjQ 
 密码：msqy
 </code></pre>
-    <div id="aplayer-dVVKmCkg" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1330348068" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86" data-loop="none"></div>
+    <div id="aplayer-VKTGRRxK" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1330348068" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86" data-loop="none"></div>
 <p>这是后来拿到版权重录的新版，编曲仍是池窪浩一，原班人马。</p>
 <p>个人非常看不惯中国的「拿来主义」——拿国外别人的歌，未取得版权的情况下，填上中文词，然后就标榜自己为<a href="https://baike.baidu.com/item/%E8%B5%B7%E9%A3%8E%E4%BA%86/22264662" target="_blank" rel="noopener">原唱</a>。哪怕这种行为有可能让大家最终认知到原版的存在，但是，这在主观上仍是为自己非法牟利的行为，实在恶劣。</p>
 <p>说词本身，「起风了」和原版完全是两个故事。原版歌词朴实，着眼点小，也就恋人间一些琐事，但主题鲜明，情感真挚。「起风了」的词，每一句都挺美，但是我不太清楚中心主旨在哪儿，通篇看下来也不太清楚想表达什么。简而言之，「不明觉厉」，又或者，无病呻吟。</p>
@@ -156,7 +192,7 @@ https://pan.baidu.com/s/1xkEWS4mwNr5K-4ag6ueJjQ
 </blockquote>
 <p>简单说，后者别致，前者平庸。</p>
 <h3 id="吴青峰"><a href="#吴青峰" class="headerlink" title="吴青峰"></a>吴青峰</h3>
-    <div id="aplayer-KyXNngCm" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1338695683" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86" data-loop="none"></div>
+    <div id="aplayer-AIzdJAHo" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="1338695683" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86" data-loop="none"></div>
 <p>这一版很清楚地告诉你，一首好歌是如何一步步被改编成俗不可耐的口水歌。</p>
 <p>吴青峰的声音是还可以的。</p>
 <p>问题在于风格被破坏了，且缺乏感情。</p>
